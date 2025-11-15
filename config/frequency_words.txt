@@ -1,113 +1,198 @@
-胖东来
-于东来
+# 國際頭條
+國際
+国际
+頭條
+头条
+全球
+世界
+國際局勢
+国际局势
 
+# 科技新知與前沿技術
+科技
+前沿科技
+前沿科技
+技術創新
+技术创新
+科技突破
+科技突破
+芯片
+光刻機
+光刻机
+半導體
+半导体
+量子計算
+量子计算
+6G
+5G
+藍牙
+藍芽
+蓝牙
+Bluetooth
+物聯網
+物联网
+IoT
+
+# AI人工智能
+AI
+人工智能
+!gai
+機器學習
+机器学习
+深度學習
+深度学习
+大模型
+LLM
+ChatGPT
+OpenAI
+Sora
+Claude
+Anthropic
+Gemini
+DeepMind
 DeepSeek
-梁文锋
+Kimi
+月之暗面
+自動駕駛
+自动驾驶
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+# 金融與全球宏觀經濟
+金融
+經濟
+经济
+宏觀經濟
+宏观经济
+全球經濟
+全球经济
+股市
+匯率
+汇率
+利率
+通膨
+通货膨胀
+通貨膨脹
+GDP
+貿易
+贸易
+投資
+投资
 
-比亚迪
-王传福
+# 國家地區
+中國
+中国
+美國
+美国
+加拿大
+台灣
+台湾
+日本
+國產
+国产
 
+# 機器人
+機器人
+机器人
+宇樹
+宇树
+智元
+靈犀
+灵犀
+
+# 大疆
 大疆
 DJI
 
-宇树
-王兴兴
+# Apple Inc. (AAPL)
+Apple
+蘋果
+苹果
+iPhone
+iPad
+Mac
+MacBook
+iOS
+iPadOS
+watchOS
+Tim Cook
+庫克
+库克
 
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
+# NVIDIA Corporation (NVDA)
 NVIDIA
+英伟達
+英伟达
+黃仁勳
 黄仁勋
+Jensen Huang
+GPU
+CUDA
+RTX
+GeForce
 
-AMD
+# Arm Holdings plc (ARM)
+Arm
+ARM架構
+ARM架构
+ARM Holdings
 
+# Broadcom Inc. (AVGO)
+Broadcom
+博通
+
+# Costco Wholesale Corporation (COST)
+Costco
+好市多
+
+# Enbridge Inc. (ENB)
+Enbridge
+
+# Alphabet Inc. (GOOG)
+Alphabet
+Google
 谷歌
-google
-gemini
-deepmind
+YouTube
+Android
+Chrome
+Pixel
 
-chatgpt
-openai
-sora
+# Intel Corporation (INTC)
+Intel
+英特爾
+英特尔
 
-claude
-Anthropic
+# Microsoft Corporation (MSFT)
+Microsoft
+微軟
+微软
 
-iphone
-ipad
-mac
-ios
+# SoundHound AI, Inc. (SOUN)
+SoundHound
 
-ai
-!gai
-人工智能
+# Trip.com Group Limited (TCOM)
+Trip.com
+攜程
+携程
+Ctrip
 
-自动驾驶
+# Walmart Inc. (WMT)
+Walmart
+沃爾瑪
+沃尔玛
 
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+# 其他科技公司
+華為
+华为
+鴻蒙
+鸿蒙
+HarmonyOS
+比亞迪
+比亚迪
+特斯拉
+馬斯克
+马斯克
+Tesla
+AMD
+Meta
+Amazon
+亞馬遜
+亚马逊
