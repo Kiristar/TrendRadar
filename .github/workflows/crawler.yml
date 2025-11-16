@@ -3,7 +3,29 @@ name: Hot News Crawler
 on:
   schedule:
     # 我们使用的是 github 官方提供的资源来进行的推送，而每个账号的资源是限额的，为了不被官方判定为滥用而面临封号的风险，不建议比半小时更低
-    - cron: "0 * * * *" # 每小时整点运行一次(实际有偏差) 或者 "*/30 * * * *" (每半小时执行一次) 或者 "*/30 0-14 * * *"(每天早上 8 点到晚上 10 点期间，每半小时运行一次)
+    
+    # The cron format, used for scheduling repetitive tasks in Unix-like operating systems, consists of five fields representing different time units, separated by spaces. These fields, in order, are:
+    # - Minute: (0-59)
+    # - Hour: (0-23)
+    # - Day of Month: (1-31)
+    # - Month: (1-12 or JAN-DEC)
+    # - Day of Week: (0-7 or SUN-SAT, where both 0 and 7 represent Sunday)
+    # Special Characters:
+    # - *: Represents "every" or "all values" for that field. For example, * in the minute field means "every minute."
+    # - ,: Separates multiple specific values. For example, 1,15 in the day of month field means "on the 1st and 15th of the month."
+    # - -: Specifies a range of values. For example, 1-5 in the day of week field means "Monday through Friday."
+    # - /: Specifies a step value. For example, */5 in the minute field means "every 5 minutes."
+    # - ?: Used in either the Day of Month or Day of Week field when the other field has a specific value, indicating "no specific value" for that field.
+    # - L: Represents "last." Can be used in Day of Month (e.g., L for the last day of the month) or Day of Week (e.g., 5L for the last Friday of the month).
+    # - W: Represents "weekday." Used with Day of Month to find the nearest weekday. For example, 1W means "the nearest weekday to the 1st of the month."
+    # - #: Used in the Day of Week field to specify the Nth occurrence of a day. For example, 2#3 means "the third Monday of the month."
+    # Examples:
+    # 0 * * * *: Every hour, at the beginning of the hour.
+    # 0 0 * * *: Every day at midnight (12:00 AM).
+    # 0 0 * * 0: Every Sunday at midnight.
+    # 0 0 1 * *: On the first day of every month at midnight.
+    # 0 15 10 * * MON-FRI: Every weekday (Monday-Friday) at 10:15 AM.
+    - cron: "0 */8 * * *" # 每8小时整点运行一次(实际有偏差) 或者 "*/30 * * * *" (每半小时执行一次) 或者 "*/30 0-14 * * *"(每天早上 8 点到晚上 10 点期间，每半小时运行一次)
   workflow_dispatch:
 
 # 添加权限设置

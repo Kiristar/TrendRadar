@@ -1,27 +1,18 @@
 # 國際頭條
-國際
 国际
-頭條
 头条
 全球
 世界
-國際局勢
 国际局势
 
 # 科技新知與前沿技術
 科技
 前沿科技
-前沿科技
-技術創新
 技术创新
 科技突破
-科技突破
 芯片
-光刻機
 光刻机
-半導體
 半导体
-量子計算
 量子计算
 6G
 5G
@@ -29,7 +20,6 @@
 藍芽
 蓝牙
 Bluetooth
-物聯網
 物联网
 IoT
 
@@ -37,9 +27,7 @@ IoT
 AI
 人工智能
 !gai
-機器學習
 机器学习
-深度學習
 深度学习
 大模型
 LLM
@@ -53,40 +41,23 @@ DeepMind
 DeepSeek
 Kimi
 月之暗面
-自動駕駛
 自动驾驶
 
 # 金融與全球宏觀經濟
 金融
-經濟
 经济
-宏觀經濟
 宏观经济
-全球經濟
 全球经济
 股市
-匯率
 汇率
 利率
-通膨
-通货膨胀
-通貨膨脹
-GDP
-貿易
-贸易
-投資
-投资
 
 # 國家地區
-中國
 中国
-美國
 美国
 加拿大
-台灣
 台湾
 日本
-國產
 国产
 
 # 大疆
@@ -95,7 +66,6 @@ DJI
 
 # Apple Inc. (AAPL)
 Apple
-蘋果
 苹果
 iPhone
 iPad
@@ -105,14 +75,11 @@ iOS
 iPadOS
 watchOS
 Tim Cook
-庫克
 库克
 
 # NVIDIA Corporation (NVDA)
 NVIDIA
-英伟達
 英伟达
-黃仁勳
 黄仁勋
 Jensen Huang
 GPU
@@ -122,7 +89,6 @@ GeForce
 
 # Arm Holdings plc (ARM)
 Arm
-ARM架構
 ARM架构
 ARM Holdings
 
@@ -148,12 +114,10 @@ Pixel
 
 # Intel Corporation (INTC)
 Intel
-英特爾
 英特尔
 
 # Microsoft Corporation (MSFT)
 Microsoft
-微軟
 微软
 
 # SoundHound AI, Inc. (SOUN)
@@ -161,24 +125,19 @@ SoundHound
 
 # Trip.com Group Limited (TCOM)
 Trip.com
-攜程
 携程
 Ctrip
 
 # Walmart Inc. (WMT)
 Walmart
-沃爾瑪
 沃尔玛
 
 # 其他科技公司
-比亞迪
 比亚迪
 特斯拉
-馬斯克
 马斯克
 Tesla
 AMD
 Meta
 Amazon
-亞馬遜
 亚马逊
